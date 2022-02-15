@@ -1,0 +1,67 @@
+﻿  Copy js and resource files.
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_boot.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_boot.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_cocos2d.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_cocos2d.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_cocos2d_constants.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_cocos2d_constants.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_cocosbuilder.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_cocosbuilder.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_common.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_common.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_create_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_create_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_debugger.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_debugger.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_deprecated.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_deprecated.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_loaders.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_loaders.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_opengl.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_opengl.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_opengl_constants.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_opengl_constants.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_pool.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_pool.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_property_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_property_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_property_impls.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_property_impls.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\jsb_spine.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\jsb_spine.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\3d\jsb_cocos2d_3d.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\3d\jsb_cocos2d_3d.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\3d\jsb_cocos2d_3d_ext.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\3d\jsb_cocos2d_3d_ext.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\ccui\jsb_ccui_create_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\ccui\jsb_ccui_create_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\ccui\jsb_ccui_deprecated.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\ccui\jsb_ccui_deprecated.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\ccui\jsb_ccui_property_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\ccui\jsb_ccui_property_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\ccui\jsb_ccui_property_impls.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\ccui\jsb_ccui_property_impls.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\ccui\jsb_cocos2d_ui.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\ccui\jsb_cocos2d_ui.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\chipmunk\jsb_chipmunk.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\chipmunk\jsb_chipmunk.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\chipmunk\jsb_chipmunk_constants.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\chipmunk\jsb_chipmunk_constants.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\DevToolsUtils.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\DevToolsUtils.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\main.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\main.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\README.md -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\README.md
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\transport.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\transport.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\actors\root.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\actors\root.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\actors\script.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\actors\script.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\debugger\core\promise.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\debugger\core\promise.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\extension\jsb_cocos2d_extension.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\extension\jsb_cocos2d_extension.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\extension\jsb_ext_create_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\extension\jsb_ext_create_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\extension\jsb_ext_property_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\extension\jsb_ext_property_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\physicsSprite\jsb_physicsSprite.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\physicsSprite\jsb_physicsSprite.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\jsb_cocos2d_studio.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\jsb_cocos2d_studio.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\jsb_studio_boot.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\jsb_studio_boot.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\jsb_studio_create_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\jsb_studio_create_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\jsb_studio_load.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\jsb_studio_load.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\jsb_studio_property_apis.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\jsb_studio_property_apis.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\action-1.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\action-1.x.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\action-2.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\action-2.x.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\compatible.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\compatible.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\scene-1.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\scene-1.x.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\timelineParser-1.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\timelineParser-1.x.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\timelineParser-2.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\timelineParser-2.x.js
+  I:\Projects\Spin_Wheel\frameworks\js-bindings\bindings\script\studio\parsers\uiParser-1.x.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\script\studio\parsers\uiParser-1.x.js
+  48 File(s) copied
+  I:\Projects\Spin_Wheel\src\app.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\src\app.js
+  I:\Projects\Spin_Wheel\src\resource.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\src\resource.js
+  2 File(s) copied
+  I:\Projects\Spin_Wheel\res\CloseNormal.png -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\res\CloseNormal.png
+  I:\Projects\Spin_Wheel\res\CloseSelected.png -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\res\CloseSelected.png
+  I:\Projects\Spin_Wheel\res\favicon.ico -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\res\favicon.ico
+  I:\Projects\Spin_Wheel\res\HelloWorld.png -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\res\HelloWorld.png
+  I:\Projects\Spin_Wheel\res\loading.js -> I:\Projects\Spin_Wheel\frameworks\runtime-src\proj.win32\Debug.win32\res\loading.js
+  5 File(s) copied
+          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+  AppDelegate.cpp
+I:\Projects\Spin_Wheel\frameworks\runtime-src\Classes\AppDelegate.h(12,10): fatal error C1083: Cannot open include file: 'platform/CCApplication.h': No such file or directory (compiling source file ..\Classes\AppDelegate.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1912,1): warning C4005: 'snprintf': macro redefinition (compiling source file main.cpp)
+I:\Projects\Spin_Wheel\frameworks\js-bindings\cocos2d-x\cocos\2d\platform\win32\CCStdC.h(53): message : see previous definition of 'snprintf' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1914,1): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration (compiling source file main.cpp)
